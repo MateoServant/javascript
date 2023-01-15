@@ -1,0 +1,16 @@
+
+.clair{
+    background-color: #f3f3f3;
+    color: #0f0f0f;
+    margin: 0%;
+    display: flex;
+    justify-content:baseline ;
+}
+  
+.sombre{
+    background-color: #0f0f0f;
+    color: #f3f3f3;
+    margin: 0%;
+    display: flex;
+    justify-content: last baseline;
+}
